@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Playground1",
+"dataUrl": "UnityExample1.data.unityweb",
+"asmCodeUrl": "UnityExample1.asm.code.unityweb",
+"asmMemoryUrl": "UnityExample1.asm.memory.unityweb",
+"asmFrameworkUrl": "UnityExample1.asm.framework.unityweb",
+"asmLibraryUrl": "UnityExample1.asm.library.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
